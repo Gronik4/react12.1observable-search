@@ -6,6 +6,6 @@
 1. При пустой форме ввода список не отображается, в state он должен быть пустым.
 2. Выводится сообщение: «Type something to search...». 
 
-**Project Sample**
+**Project Sample** [![Build status](https://ci.appveyor.com/api/projects/status/f36b2ue8w71rnfwp?svg=true)](https://ci.appveyor.com/project/Gronik4/react12-1observable-search)
 
 [Посмотреть результат](https://gronik4.github.io/react12.1observable-search/)
